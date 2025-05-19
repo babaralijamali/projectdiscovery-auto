@@ -5,6 +5,6 @@ This script installs the latest version of Go and popular bug bounty tools syste
 ### 🛠 Usage
 
 ```bash
-git clone https://https://github.com/babaralijamali/projectdiscovery-auto.git
+git clone https://github.com/babaralijamali/projectdiscovery-auto.git
 chmod +x pd.sh
 sudo ./pd.sh
