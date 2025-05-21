@@ -7,7 +7,7 @@ if [[ "$confirm" != "y" && "$confirm" != "Y" ]]; then
     exit 1
 fi
 
-# List of known bug bounty tools (add more if needed)
+
 TOOLS=(
   subfinder
   httpx
